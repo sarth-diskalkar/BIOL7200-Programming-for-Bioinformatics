@@ -174,6 +174,6 @@ Includes syllabus, informative readings, slides, Jupyter Notebooks, weekly homew
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me.
+If you have any questions or suggestions, feel free to contact me at sarthd@gmail.com
 
 
