@@ -1,6 +1,6 @@
 # BIOL 7200 Programming for Bioinformatics
 
-This repository contains the course materials for BIOL 7200 Programming for Bioinformatics. The first half of the semester was command line and Bash. Python material was introduced in the second half of the course.
+This repository contains the course materials for BIOL 7200 Programming for Bioinformatics. The first half of the semester covered Unix/Linux operations, utilies, and bash shell scripting. Python material along with some data science methodologies were introduced in the second half of the course.
 
 Includes syllabus, informative readings, slides, Jupyter Notebooks, weekly homework assignments/exercises, and the final Magnum Opus project included in the Week 10 and Week 11.
 
